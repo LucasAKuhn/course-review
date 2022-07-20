@@ -1,11 +1,13 @@
 package secao8Lambdas;
 
+import java.util.function.BinaryOperator;
+
 public class Calculo {
 
     public static void main(String[] args) {
 
-        Calculo calculo = (x, y) -> { return x + y; };
+    BinaryOperator<Double> calc = (x, y) -> { return x + y; };
+    System.out.println(calc.apply(2.0, 5.0));
 
-        System.out.println(calculo.executar(2, 3));
     }
 }

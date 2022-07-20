@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d0ebba5-02e0-466e-88d0-8650ebbd9d1c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secao8Lambdas/Calculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secao8Lambdas/Calculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Calculo">
+  <component name="RunManager" selected="Application.Predicado">
     <configuration name="Calculo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secao8Lambdas.Calculo" />
       <module name="revisaoCursoJavaIntrodutorio" />
@@ -50,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao5.classe.DataTeste" />
+    <configuration name="Jantar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao5.classe.desafio.Jantar" />
       <module name="revisaoCursoJavaIntrodutorio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao5.classe.*" />
+          <option name="PATTERN" value="secao5.classe.desafio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jantar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secao5.classe.desafio.Jantar" />
+    <configuration name="Predicado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao8Lambdas.Predicado" />
       <module name="revisaoCursoJavaIntrodutorio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secao5.classe.desafio.*" />
+          <option name="PATTERN" value="secao8Lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Predicado" />
         <item itemvalue="Application.Calculo" />
         <item itemvalue="Application.Jantar" />
         <item itemvalue="Application.ValorVsReferencia" />
         <item itemvalue="Application.secao5.classe.ProdutoTeste" />
-        <item itemvalue="Application.DataTeste" />
       </list>
     </recent_temporary>
   </component>
