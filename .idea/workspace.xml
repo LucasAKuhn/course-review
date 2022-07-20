@@ -36,7 +36,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Jantar">
+  <component name="RunManager" selected="Application.Calculo">
+    <configuration name="Calculo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao8Lambdas.Calculo" />
+      <module name="revisaoCursoJavaIntrodutorio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secao8Lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secao5.classe.DataTeste" />
       <module name="revisaoCursoJavaIntrodutorio" />
@@ -91,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculo" />
         <item itemvalue="Application.Jantar" />
         <item itemvalue="Application.ValorVsReferencia" />
         <item itemvalue="Application.secao5.classe.ProdutoTeste" />
